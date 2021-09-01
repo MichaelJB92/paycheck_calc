@@ -1,2 +1,2 @@
 # paycheck_calc
-A simple paycheck Calculator function
+A simple hourly paycheck calculator function
